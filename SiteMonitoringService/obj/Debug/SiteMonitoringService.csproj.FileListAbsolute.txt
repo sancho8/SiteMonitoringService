@@ -1,0 +1,9 @@
+c:\users\sancho\documents\visual studio 2015\Projects\SiteMonitoringService\SiteMonitoringService\bin\Debug\SiteMonitoringService.exe.config
+c:\users\sancho\documents\visual studio 2015\Projects\SiteMonitoringService\SiteMonitoringService\bin\Debug\SiteMonitoringService.exe
+c:\users\sancho\documents\visual studio 2015\Projects\SiteMonitoringService\SiteMonitoringService\bin\Debug\SiteMonitoringService.pdb
+c:\users\sancho\documents\visual studio 2015\Projects\SiteMonitoringService\SiteMonitoringService\obj\Debug\SiteMonitoringService.csprojResolveAssemblyReference.cache
+c:\users\sancho\documents\visual studio 2015\Projects\SiteMonitoringService\SiteMonitoringService\obj\Debug\SiteMonitoringService.exe
+c:\users\sancho\documents\visual studio 2015\Projects\SiteMonitoringService\SiteMonitoringService\obj\Debug\SiteMonitoringService.pdb
+C:\Users\Sancho\Desktop\SiteMonitoringService\SiteMonitoringService\bin\Debug\SiteMonitoringService.exe.config
+C:\Users\Sancho\Desktop\SiteMonitoringService\SiteMonitoringService\obj\Debug\SiteMonitoringService.exe
+C:\Users\Sancho\Desktop\SiteMonitoringService\SiteMonitoringService\obj\Debug\SiteMonitoringService.pdb
