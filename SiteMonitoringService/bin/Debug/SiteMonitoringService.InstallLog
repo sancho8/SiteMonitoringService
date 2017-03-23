@@ -1,0 +1,76 @@
+﻿Выполняется установка сборки 'C:\Users\Sancho\Desktop\SiteMonitoringService\SiteMonitoringService\bin\Debug\SiteMonitoringService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Sancho\Desktop\SiteMonitoringService\SiteMonitoringService\bin\Debug\SiteMonitoringService.exe
+   logfile = C:\Users\Sancho\Desktop\SiteMonitoringService\SiteMonitoringService\bin\Debug\SiteMonitoringService.InstallLog
+Устанавливается служба MyTestService...
+Создается исходный EventLog MyTestService в журнале Application...
+Выполняется откат для сборки 'C:\Users\Sancho\Desktop\SiteMonitoringService\SiteMonitoringService\bin\Debug\SiteMonitoringService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Sancho\Desktop\SiteMonitoringService\SiteMonitoringService\bin\Debug\SiteMonitoringService.exe
+   logfile = C:\Users\Sancho\Desktop\SiteMonitoringService\SiteMonitoringService\bin\Debug\SiteMonitoringService.InstallLog
+Восстанавливается исходное состояние журнала событий для источника MyTestService.
+При выполнении программы установки System.Diagnostics.EventLogInstaller на этапе отката возникло исключение.
+System.Security.SecurityException: Источник не найден, но не удалось выполнить поиск по нескольким или всем журналам событий.  Недоступные журналы: Security.
+На этапе отката процедуры установки возникло исключение. Это исключение будет проигнорировано, и откат будет продолжен. Однако после завершения отката компьютер может не вернуться полностью в исходное состояние.
+Выполняется установка сборки 'C:\Users\Sancho\Desktop\SiteMonitoringService\SiteMonitoringService\bin\Debug\SiteMonitoringService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Sancho\Desktop\SiteMonitoringService\SiteMonitoringService\bin\Debug\SiteMonitoringService.exe
+   logfile = C:\Users\Sancho\Desktop\SiteMonitoringService\SiteMonitoringService\bin\Debug\SiteMonitoringService.InstallLog
+Устанавливается служба MyTestService...
+Служба MyTestService успешно установлена.
+Создается исходный EventLog MyTestService в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Sancho\Desktop\SiteMonitoringService\SiteMonitoringService\bin\Debug\SiteMonitoringService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Sancho\Desktop\SiteMonitoringService\SiteMonitoringService\bin\Debug\SiteMonitoringService.exe
+   logfile = C:\Users\Sancho\Desktop\SiteMonitoringService\SiteMonitoringService\bin\Debug\SiteMonitoringService.InstallLog
+Выполняется установка сборки 'C:\Users\Sancho\Desktop\SiteMonitoringService\SiteMonitoringService\bin\Debug\SiteMonitoringService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Sancho\Desktop\SiteMonitoringService\SiteMonitoringService\bin\Debug\SiteMonitoringService.exe
+   logfile = C:\Users\Sancho\Desktop\SiteMonitoringService\SiteMonitoringService\bin\Debug\SiteMonitoringService.InstallLog
+Устанавливается служба MyTestService...
+Создается исходный EventLog MyTestService в журнале Application...
+Выполняется откат для сборки 'C:\Users\Sancho\Desktop\SiteMonitoringService\SiteMonitoringService\bin\Debug\SiteMonitoringService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Sancho\Desktop\SiteMonitoringService\SiteMonitoringService\bin\Debug\SiteMonitoringService.exe
+   logfile = C:\Users\Sancho\Desktop\SiteMonitoringService\SiteMonitoringService\bin\Debug\SiteMonitoringService.InstallLog
+Восстанавливается исходное состояние журнала событий для источника MyTestService.
+Выполняется удаление сборки 'C:\Users\Sancho\Desktop\SiteMonitoringService\SiteMonitoringService\bin\Debug\SiteMonitoringService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Sancho\Desktop\SiteMonitoringService\SiteMonitoringService\bin\Debug\SiteMonitoringService.exe
+   logfile = C:\Users\Sancho\Desktop\SiteMonitoringService\SiteMonitoringService\bin\Debug\SiteMonitoringService.InstallLog
+Выполняется удаление источника EventLog MyTestService.
+Выполняется удаление службы MyTestService из системы...
+Служба MyTestService успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\Sancho\Desktop\SiteMonitoringService\SiteMonitoringService\bin\Debug\SiteMonitoringService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Sancho\Desktop\SiteMonitoringService\SiteMonitoringService\bin\Debug\SiteMonitoringService.exe
+   logfile = C:\Users\Sancho\Desktop\SiteMonitoringService\SiteMonitoringService\bin\Debug\SiteMonitoringService.InstallLog
+Устанавливается служба MyTestService...
+Служба MyTestService успешно установлена.
+Создается исходный EventLog MyTestService в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Sancho\Desktop\SiteMonitoringService\SiteMonitoringService\bin\Debug\SiteMonitoringService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Sancho\Desktop\SiteMonitoringService\SiteMonitoringService\bin\Debug\SiteMonitoringService.exe
+   logfile = C:\Users\Sancho\Desktop\SiteMonitoringService\SiteMonitoringService\bin\Debug\SiteMonitoringService.InstallLog
+Выполняется установка сборки 'C:\Users\Sancho\Desktop\SiteMonitoringService\SiteMonitoringService\bin\Debug\SiteMonitoringService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Sancho\Desktop\SiteMonitoringService\SiteMonitoringService\bin\Debug\SiteMonitoringService.exe
+   logfile = C:\Users\Sancho\Desktop\SiteMonitoringService\SiteMonitoringService\bin\Debug\SiteMonitoringService.InstallLog
+Устанавливается служба MyTestService...
+Создается исходный EventLog MyTestService в журнале Application...
+Выполняется откат для сборки 'C:\Users\Sancho\Desktop\SiteMonitoringService\SiteMonitoringService\bin\Debug\SiteMonitoringService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Sancho\Desktop\SiteMonitoringService\SiteMonitoringService\bin\Debug\SiteMonitoringService.exe
+   logfile = C:\Users\Sancho\Desktop\SiteMonitoringService\SiteMonitoringService\bin\Debug\SiteMonitoringService.InstallLog
+Восстанавливается исходное состояние журнала событий для источника MyTestService.
