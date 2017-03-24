@@ -14,16 +14,22 @@ namespace SiteMonitoringService
         /// </summary>
         static void Main()
     {
-#if !DEBUG
-      ServiceBase[] ServicesToRun;
+#if DEBUG
+            using (Microsoft.Owin.Hosting.WebApp.Start<Startup>("http://localhost:8000"))
+            {
+                Console.WriteLine("Сервер запущен. Нажмите любую клавишу для завершения работы...");
+                Console.ReadLine();
+            }
+            new Service1().Start();
+
+#else
+     ServiceBase[] ServicesToRun;
       ServicesToRun = new ServiceBase[] 
 			{ 
 				new Service1() 
 			};
       ServiceBase.Run(ServicesToRun);
-#else
-      new Service1().Start();
 #endif
-    }
+        }
     }
 }

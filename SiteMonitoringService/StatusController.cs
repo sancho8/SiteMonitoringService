@@ -10,6 +10,9 @@ namespace SiteMonitoringService
 {
     class StatusController: ApiController
     {
+        [HttpPost]
+        [HttpGet]
+        [Route("api/CheckStatus")]
         public bool CheckStatus()
         {
             ServiceController sc = new ServiceController("MyTestService"); //init controller for service
