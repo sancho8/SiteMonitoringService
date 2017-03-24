@@ -23,6 +23,12 @@ namespace SiteMonitoringService
             this.AutoLog = true;
         }
 
+        public void Start()
+        {
+            string[] args = { "" };
+            OnStart(args);
+        }
+
         protected override void OnStart(string[] args)
         {
             logger = new Logger();
@@ -54,6 +60,7 @@ namespace SiteMonitoringService
         public void Start()
         {
             watcher.EnableRaisingEvents = true;
+            Jobs.SiteCheckerSheduler.Start();
             while (enabled)
             {
                 Thread.Sleep(1000);
@@ -67,7 +74,7 @@ namespace SiteMonitoringService
         // переименование файлов
         private void Watcher_Renamed(object sender, RenamedEventArgs e)
         {
-            string fileEvent = "переименован в " + e.FullPath;
+            string fileEvent = "renameDDD в " + e.FullPath;
             string filePath = e.OldFullPath;
             RecordEntry(fileEvent, filePath);
         }
