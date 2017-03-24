@@ -12,8 +12,8 @@ namespace SiteMonitoringService
     {
         public bool CheckStatus()
         {
-            ServiceController sc = new ServiceController("MyTestService");
-            return (sc.Status == ServiceControllerStatus.Running);
+            ServiceController sc = new ServiceController("MyTestService"); //init controller for service
+            return (sc.Status == ServiceControllerStatus.Running); //return true if service is running
         }
     }
 }
