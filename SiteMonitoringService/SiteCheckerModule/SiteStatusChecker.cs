@@ -5,7 +5,7 @@ using System.Net;
 
 namespace SiteMonitoringService.Jobs
 {
-    class SiteStatusChecker : IJob
+    public class SiteStatusChecker : IJob
     {
 
         private string pathToLogFile = "C:\\sitechecker_log.txt"; //path to log files
@@ -36,7 +36,7 @@ namespace SiteMonitoringService.Jobs
         }
 
         //retutn status of site(available or unavailable + casue)
-        private string checkSite(string url)
+        public string checkSite(string url)
         {
             try
             {

@@ -9,7 +9,6 @@ C:\Users\Sancho\Desktop\SiteMonitoringService\SiteMonitoringService\obj\Debug\Si
 C:\Users\Sancho\Desktop\SiteMonitoringService\SiteMonitoringService\obj\Debug\SiteMonitoringService.pdb
 C:\Users\Sancho\Desktop\SiteMonitoringService\SiteMonitoringService\bin\Debug\SiteMonitoringService.exe
 C:\Users\Sancho\Desktop\SiteMonitoringService\SiteMonitoringService\bin\Debug\SiteMonitoringService.pdb
-C:\Users\Sancho\Desktop\SiteMonitoringService\SiteMonitoringService\obj\Debug\SiteMonitoringService.csprojResolveAssemblyReference.cache
 C:\Users\Sancho\Desktop\SiteMonitoringService\SiteMonitoringService\bin\Debug\Common.Logging.Core.dll
 C:\Users\Sancho\Desktop\SiteMonitoringService\SiteMonitoringService\bin\Debug\Common.Logging.dll
 C:\Users\Sancho\Desktop\SiteMonitoringService\SiteMonitoringService\bin\Debug\Microsoft.Owin.dll

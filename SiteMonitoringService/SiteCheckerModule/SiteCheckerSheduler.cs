@@ -3,7 +3,7 @@ using Quartz.Impl;
 
 namespace SiteMonitoringService.Jobs
 {
-    class SiteCheckerSheduler
+    public class SiteCheckerSheduler
     {
         public static void Start()
         {
